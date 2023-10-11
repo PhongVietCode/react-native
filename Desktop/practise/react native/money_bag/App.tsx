@@ -1,6 +1,6 @@
 import React from "react";
 import Welcome from "./screens/Welcome";
-
+import Home from "./screens/Home"
 import AppLoading from "expo-app-loading";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
